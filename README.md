@@ -18,4 +18,7 @@ npm run build
 npm run start
 ```
 ## Deploying
-...working
+[now](https://zeit.co/now) - A very simple deployment for development purposes
+```
+now
+```
