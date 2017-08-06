@@ -1,0 +1,14 @@
+body {
+  background: #dddddd;
+}
+.logo {
+  padding-left: 50;
+  padding-right: 50;
+}
+.article_title {
+  color: #00aaaa;
+}
+
+.article_text {
+  color: #ffff00;
+}
